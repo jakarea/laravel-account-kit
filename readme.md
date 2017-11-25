@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About This project
 
 This project is in laravel 5.5
 Here you found default authentication system with social login and facebook account kit. 
